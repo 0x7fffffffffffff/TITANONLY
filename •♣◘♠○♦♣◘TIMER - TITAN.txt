@@ -18,3 +18,4 @@ d68fb9df-dfd1-4963-804f-b0ba93dc8d2a //Guidi
 68dd0e1e-310e-4198-8d09-07490f81cf81 //gorila
 954f6b63-ae87-4158-9d84-a2f04b910b8a //DEV Juh amigo do ed
 ec6dc9a5-cbbd-4236-8c8b-e3dc1fc9f33b //collide
+f9d5481c-584d-4ef3-a6f9-3b05c6101898 //amigo do rafa
