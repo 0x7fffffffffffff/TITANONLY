@@ -1,7 +1,7 @@
 3f1c650c-baae-4a3a-80f3-12affa9d7113 //rayzera
-7c9f3ef7-4954-4ca5-b189-95d09aa6a4b3 //padu doente
+
 47181336-3fb0-40a7-9d28-04188b14e828 //rejected
-89cbd2d6-43e5-46cd-af4a-8af9e23956c2 //Matias RagBrazil
+
 1325ea55-d3b5-40dd-a236-cf2d21f90d10 //mao ragbrazil
 3e4874bc-bee9-7bba-354c-df703be27874 //Joki
 73c1dae4-8a9e-484a-b34b-7d4803f2b88d //edragbraZIL
@@ -10,7 +10,7 @@
 ccf46dda-c5dd-45e2-bed6-aa5843e4a581 //Nuunk
 a6bc6861-59c3-4430-bdba-ecb9eab8653a //𝕯 𝖆 𝖛 𝖎 𝖉 I BLIZZARD
 db6ac5e3-9e18-4672-9105-230b999aa0a3 //Fabio
-1ee84202-f919-4dae-831e-78b0cf775ced //Hudson
+
 bd2d0d49-0265-4074-927a-1733b824e580 //Papi Fermale
 6ee36cc8-d65d-463d-a99e-f418ae71b665 //Jpz Erik
 d68fb9df-dfd1-4963-804f-b0ba93dc8d2a //Guidi
